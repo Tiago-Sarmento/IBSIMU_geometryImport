@@ -8,7 +8,9 @@ These scripts were originally written so an assembly in solid edge could be easi
 
 (From solid edge)
 Save assembly as translated, as separate STL files in mm under 'options...' 
+
 Select relevant assembly parts and right click to get occurence properties
+
 Copy and paste the columns up to ZRot into the second row of the positioning.csv file in this repo
 If you have electric potentials to add to each part, populate the voltage column in Volts but without writing units in the csv file. Note: all rows must have a value unless all are empty
 Open and run renderSTL.py
