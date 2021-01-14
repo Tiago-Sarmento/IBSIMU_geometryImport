@@ -13,7 +13,7 @@ from stl import mesh
 import pandas as pd
 import math
 
-prefix = 'parts/pullerElectrodes/'
+prefix = 'exampleAssembly/'
 exportedFile = 'positioning.csv'
 
 data = []
