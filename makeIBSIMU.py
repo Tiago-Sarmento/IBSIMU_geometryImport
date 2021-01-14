@@ -9,7 +9,7 @@ import pandas as pd
 import translateToIBSIMU as ib
 pi = 3.14159265359
 
-prefix = 'parts/pullerElectrodes/'
+prefix = 'exampleAssembly/'
 positionFile = 'positioning.csv'
 writeFile = 'IBSIMU_GeometryImport.cpp'
 nDimensions = 3
