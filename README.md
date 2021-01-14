@@ -1,6 +1,7 @@
 # IBSIMU Geometry Import
 
 Python scripts to easily import geometry into IBSIMU particle tracking simulations
+
 These scripts were originally written so an assembly in solid edge could be easily imported into IBSIMU.
 
 ## Basic usage:
