@@ -1,0 +1,8 @@
+fullName,partnames,blank,blank2,X,Y,Z,Xdeg,Ydeg,Zdeg,volts
+Base 1-A.par:1,Base 1-A.par,No,,-250.00 mm,0.00 mm,10.06 mm,-90.00 deg,0.00 deg,-90.00 deg,200
+Base 1-A.par:2,Base 1-A.par,No,,0.00 mm,-250.00 mm,10.06 mm,-90.00 deg,-180.00 deg,0.00 deg,300
+Middle pole.par:1,Middle pole.par,No,,0.00 mm,0.00 mm,520.06 mm,0.00 deg,180.00 deg,0.00 deg,400
+Upper plate 1.par:2,Upper plate 1.par,No,,-0.01 mm,0.04 mm,1030.65 mm,180.00 deg,0.00 deg,-60.00 deg,500
+Pin A.par:1,Pin A.par,No,,16.05 mm,-207.77 mm,1030.06 mm,0.00 deg,0.00 deg,-111.41 deg,600
+Pin A.par:2,Pin A.par,No,,-16.06 mm,-207.77 mm,1030.06 mm,0.00 deg,0.00 deg,-111.73 deg,700
+Pin A.par:3,Pin A.par,No,,-171.95 mm,-117.77 mm,1030.06 mm,0.00 deg,0.00 deg,-134.72 deg,800
